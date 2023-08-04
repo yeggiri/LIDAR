@@ -3,10 +3,10 @@
 RPLIDAR관련 툴 설치 정보 : https://m.blog.naver.com/thumbdown/220385363246
 slam 동작 : https://blog.naver.com/hwann218/222238803461
 slam 동작2 : https://chat.openai.com/c/5ab0ef59-5697-4528-b301-2c483e233f5f#none
-
+slam 동작3 (with gazebo) : https://roboticsbackend.com/ros2-nav2-generate-a-map-with-slam_toolbox/
 
 라이다 USB포트 번호 알내기 ttyUSB* : lsusb | grep -i 'LiDAR' | wc -l
-라이다 툴 설치 : sudo apt install ros-$ROS_DISTRO-rplidar-ros
+RP라이다 툴 설치 : sudo apt install ros-$ROS_DISTRO-rplidar-ros
 
 #wsl2
 WSL2에 ros2설치 : https://keep-steady.tistory.com/45?category=922869
