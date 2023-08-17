@@ -10,6 +10,7 @@ RP라이다 툴 설치 : sudo apt install ros-$ROS_DISTRO-rplidar-ros
 
 #wsl2
 WSL2에 ros2설치 : https://keep-steady.tistory.com/45?category=922869
+환경 변수 임의 지정 : $env:PATH = $env:PATH + ";C:\Windows\System32"
 wsl2 usb포트 연결 : https://velog.io/@pikamon/Linux-6
     중간에 에러시 : https://askubuntu.com/questions/1406205/install-usb-ip-on-ubuntu-22-04-on-windows-subsystem-for-linux
 
