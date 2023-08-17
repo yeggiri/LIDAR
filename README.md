@@ -21,3 +21,10 @@ urdf 튜토리얼 : https://navigation.ros.org/setup_guides/urdf/setup_urdf.html
 
 #ROS1 Melodic
 catkin_make -> source devel/setup.bash
+
+
+#map server
+설치 : sudo apt-get install ros-<ROS 버전>-map-server
+맵 저장 : rosrun map_server map_saver -f <map_name>
+맵 불러오기 (노드 설정) : rosrun map_server map_server <map_name>.yaml
+-> 이후 rviz를 키고 맵 토픽 설정
