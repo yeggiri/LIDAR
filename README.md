@@ -28,3 +28,7 @@ catkin_make -> source devel/setup.bash
 맵 저장 : rosrun map_server map_saver -f <map_name>
 맵 불러오기 (노드 설정) : rosrun map_server map_server <map_name>.yaml
 -> 이후 rviz를 키고 맵 토픽 설정
+
+#ubuntu server
+설정 및 gui 설치 :https://shinestone.tistory.com/27
+ports 오류시 : https://askubuntu.com/questions/91543/apt-get-update-fails-to-fetch-files-temporary-failure-resolving-error
