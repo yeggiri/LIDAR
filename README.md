@@ -32,3 +32,6 @@ catkin_make -> source devel/setup.bash
 #ubuntu server
 설정 및 gui 설치 :https://shinestone.tistory.com/27
 ports 오류시 : https://askubuntu.com/questions/91543/apt-get-update-fails-to-fetch-files-temporary-failure-resolving-error
+
+#ubuntu wifi: https://velog.io/@gilchris/Ubuntu-20.04-terminal%EC%97%90%EC%84%9C-wifi-%EC%9E%A1%EA%B8%B0
+https://velog.io/@gilchris/Ubuntu-20.04-terminal%EC%97%90%EC%84%9C-wifi-%EC%9E%A1%EA%B8%B0
