@@ -34,4 +34,7 @@ catkin_make -> source devel/setup.bash
 ports 오류시 : https://askubuntu.com/questions/91543/apt-get-update-fails-to-fetch-files-temporary-failure-resolving-error
 
 #ubuntu wifi: https://velog.io/@gilchris/Ubuntu-20.04-terminal%EC%97%90%EC%84%9C-wifi-%EC%9E%A1%EA%B8%B0
-https://velog.io/@gilchris/Ubuntu-20.04-terminal%EC%97%90%EC%84%9C-wifi-%EC%9E%A1%EA%B8%B0
+wifi ip 주소 알아내기 : ip a | grep inet | grep wlan
+
+#ubuntu 원격 접속 : https://jkim83.tistory.com/131 
+https://catnip-archive.tistory.com/entry/Ubuntu-Ubuntu-1804-%EB%B6%80%ED%8C%85-%EC%8B%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%83%9D%EB%9E%B5%ED%95%98%EA%B8%B0#:~:text=%EB%A8%BC%EC%A0%80%20%EC%84%A4%EC%A0%95%EC%97%90%20%EB%93%A4%EC%96%B4%EA%B0%80%EC%84%9C%20%22Detail,%EC%84%A4%EC%A0%95%EC%9D%80%20%EB%81%9D%EC%9D%B4%20%EB%82%A9%EB%8B%88%EB%8B%A4.
