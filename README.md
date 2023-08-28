@@ -18,6 +18,7 @@ wsl2 usb포트 연결 : https://velog.io/@pikamon/Linux-6
 #urdf
 urdf 튜토리얼 : https://navigation.ros.org/setup_guides/urdf/setup_urdf.html 
 - 한국어 지원 : https://duvallee.tistory.com/10
+- github : https://github.com/ros-planning/navigation2_tutorials/blob/master/sam_bot_description/launch/display.launch.py
 
 #ROS1 Melodic
 catkin_make -> source devel/setup.bash
