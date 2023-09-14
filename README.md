@@ -20,7 +20,7 @@ urdf 튜토리얼 : https://navigation.ros.org/setup_guides/urdf/setup_urdf.html
 - 한국어 지원 : https://duvallee.tistory.com/10
 - github : https://github.com/ros-planning/navigation2_tutorials/blob/master/sam_bot_description/launch/display.launch.py
 
-#ROS1 Melodic
+#ROS1 Melodic                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 catkin_make -> source devel/setup.bash
 
 
@@ -33,8 +33,7 @@ catkin_make -> source devel/setup.bash
 #ubuntu server
 설정 및 gui 설치 :https://shinestone.tistory.com/27
 ports 오류시 : https://askubuntu.com/questions/91543/apt-get-update-fails-to-fetch-files-temporary-failure-resolving-error
-
-#ubuntu wifi: https://velog.io/@gilchris/Ubuntu-20.04-terminal%EC%97%90%EC%84%9C-wifi-%EC%9E%A1%EA%B8%B0
+ubuntu wifi: https://velog.io/@gilchris/Ubuntu-20.04-terminal%EC%97%90%EC%84%9C-wifi-%EC%9E%A1%EA%B8%B0
 wifi ip 주소 알아내기 : ip a | grep inet | grep wlan
 
 #ubuntu 원격 접속 : https://jkim83.tistory.com/131 
