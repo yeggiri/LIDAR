@@ -20,9 +20,11 @@ urdf 튜토리얼 : https://navigation.ros.org/setup_guides/urdf/setup_urdf.html
 - 한국어 지원 : https://duvallee.tistory.com/10
 - github : https://github.com/ros-planning/navigation2_tutorials/blob/master/sam_bot_description/launch/display.launch.py
 
-#ROS1 Melodic                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+#ROS1 Melodic                                  
 catkin_make -> source devel/setup.bash
 
+#ROS2 패키지 만들기
+ros2 pkg create --build-type ament_python --node-name my_node my_package
 
 #map server
 설치 : sudo apt-get install ros-<ROS 버전>-map-server
